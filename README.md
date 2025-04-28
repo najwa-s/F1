@@ -5,3 +5,16 @@ This project is a personal tribute to my passion for Formula 1, combining my lov
 Here, I dive deep into race telemetry, lap times, pit stops, tire strategies, and much more, offering an interactive dashboard to explore and visualize key race insights.
 
 ⚡ Whether you're an F1 fan or a data enthusiast (or both like me!), this project brings the excitement of Grand Prix weekends to life through data.
+
+
+
+
+
+
+# ❤️ Why This Project?
+Formula 1 is not just a sport for me — it's a passion.
+The speed, the strategy, the drama — every Grand Prix weekend feels like a story unfolding in real-time.
+Through this project, I wanted to combine my two biggest interests: technology and racing, and create a space where data meets adrenaline. 🏎️📊
+
+This is my small way of celebrating the beauty and complexity of Formula 1, and hopefully, sharing that excitement with others!
+
